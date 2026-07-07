@@ -50,7 +50,7 @@ python3.8 clean.py \
 ## Run predictor
 
 ```bash
-python3.8 predictor.py --i input/compound_clean.csv
+python3.8 predictor.py --i cleaned.csv
 ```
 
 ## Output
