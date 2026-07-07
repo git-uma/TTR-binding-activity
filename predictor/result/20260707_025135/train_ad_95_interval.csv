@@ -1,0 +1,4 @@
+metric,value
+AD_lower_2.5_percentile,1.6665297816659352
+AD_upper_97.5_percentile,3.7499600497373238
+AD_threshold_for_AD_Out,3.7499600497373238

@@ -1,0 +1,1856 @@
+﻿feature,final_status,dropped_reasons,dropped_stages,coerced_to_nan
+c_AATS0are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_AATS0s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATS0se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_AATS1Z,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATS1are,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATS1d,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATS1dv,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATS1i,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATS1m,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATS1p,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATS1pe,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATS1s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATS1se,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATS1v,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATS2Z,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATS2are,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATS2d,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATS2dv,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATS2i,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATS2m,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATS2p,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATS2pe,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATS2s,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATS2se,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATS2v,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATS3Z,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATS3are,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATS3d,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATS3dv,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATS3i,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATS3m,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATS3p,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATS3pe,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATS3s,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATS3se,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATS3v,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATS4Z,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATS4are,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATS4d,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATS4dv,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATS4i,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATS4m,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATS4p,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATS4pe,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATS4s,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATS4se,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATS4v,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATS5Z,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATS5are,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATS5d,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATS5dv,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATS5i,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATS5m,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATS5p,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATS5pe,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATS5s,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATS5se,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATS5v,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATS6Z,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATS6are,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATS6d,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATS6dv,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATS6i,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATS6m,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATS6p,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATS6pe,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATS6s,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATS6se,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATS6v,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATS7Z,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATS7are,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATS7d,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATS7dv,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATS7i,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATS7m,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATS7p,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATS7pe,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATS7s,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATS7se,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATS7v,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATS8Z,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATS8are,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATS8d,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATS8dv,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATS8i,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATS8m,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATS8p,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATS8pe,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATS8s,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATS8se,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATS8v,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATSC0are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_AATSC0c,dropped,has_nan,nan_drop,nan_count=6; coerced_to_nan=0
+c_AATSC0s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATSC0se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_AATSC1Z,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATSC1are,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATSC1c,dropped,has_nan,nan_drop,nan_count=9; coerced_to_nan=0
+c_AATSC1d,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATSC1dv,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATSC1i,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATSC1m,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATSC1p,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATSC1pe,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATSC1s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATSC1se,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATSC1v,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AATSC2Z,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATSC2are,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATSC2c,dropped,has_nan,nan_drop,nan_count=9; coerced_to_nan=0
+c_AATSC2d,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATSC2dv,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATSC2i,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATSC2m,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATSC2p,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATSC2pe,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATSC2s,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATSC2se,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATSC2v,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_AATSC3Z,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATSC3are,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATSC3c,dropped,has_nan,nan_drop,nan_count=12; coerced_to_nan=0
+c_AATSC3d,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATSC3dv,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATSC3i,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATSC3m,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATSC3p,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATSC3pe,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATSC3s,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATSC3se,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATSC3v,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_AATSC4Z,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATSC4are,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATSC4c,dropped,has_nan,nan_drop,nan_count=19; coerced_to_nan=0
+c_AATSC4d,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATSC4dv,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATSC4i,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATSC4m,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATSC4p,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATSC4pe,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATSC4s,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATSC4se,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATSC4v,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_AATSC5Z,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATSC5are,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATSC5c,dropped,has_nan,nan_drop,nan_count=55; coerced_to_nan=0
+c_AATSC5d,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATSC5dv,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATSC5i,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATSC5m,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATSC5p,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATSC5pe,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATSC5s,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATSC5se,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATSC5v,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_AATSC6Z,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATSC6are,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATSC6c,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+c_AATSC6d,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATSC6dv,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATSC6i,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATSC6m,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATSC6p,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATSC6pe,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATSC6s,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATSC6se,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATSC6v,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_AATSC7Z,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATSC7are,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATSC7c,dropped,has_nan,nan_drop,nan_count=210; coerced_to_nan=0
+c_AATSC7d,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATSC7dv,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATSC7i,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATSC7m,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATSC7p,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATSC7pe,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATSC7s,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATSC7se,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATSC7v,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AATSC8Z,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATSC8are,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATSC8c,dropped,has_nan,nan_drop,nan_count=311; coerced_to_nan=0
+c_AATSC8d,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATSC8dv,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATSC8i,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATSC8m,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATSC8p,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATSC8pe,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATSC8s,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATSC8se,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AATSC8v,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_AETA_eta_B,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AETA_eta_BR,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATS0are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATS0s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATS0se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATS1are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATS1s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATS1se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATS2are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATS2s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATS2se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATS3are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATS3s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATS3se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATS4are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATS4s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATS4se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATS5are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATS5s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATS5se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATS6are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATS6s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATS6se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATS7are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATS7s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATS7se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATS8are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATS8s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATS8se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC0are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC0c,dropped,has_nan,nan_drop,nan_count=6; coerced_to_nan=0
+c_ATSC0s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATSC0se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC1are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC1c,dropped,has_nan,nan_drop,nan_count=6; coerced_to_nan=0
+c_ATSC1s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATSC1se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC2are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC2c,dropped,has_nan,nan_drop,nan_count=6; coerced_to_nan=0
+c_ATSC2s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATSC2se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC3are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC3c,dropped,has_nan,nan_drop,nan_count=6; coerced_to_nan=0
+c_ATSC3s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATSC3se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC4are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC4c,dropped,has_nan,nan_drop,nan_count=6; coerced_to_nan=0
+c_ATSC4s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATSC4se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC5are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC5c,dropped,has_nan,nan_drop,nan_count=6; coerced_to_nan=0
+c_ATSC5s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATSC5se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC6are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC6c,dropped,has_nan,nan_drop,nan_count=6; coerced_to_nan=0
+c_ATSC6s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATSC6se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC7are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC7c,dropped,has_nan,nan_drop,nan_count=6; coerced_to_nan=0
+c_ATSC7s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATSC7se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC8are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_ATSC8c,dropped,has_nan,nan_drop,nan_count=6; coerced_to_nan=0
+c_ATSC8s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ATSC8se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_AXp-0d,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AXp-0dv,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_AXp-1d,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AXp-1dv,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_AXp-2d,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_AXp-2dv,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_AXp-3d,dropped,has_nan,nan_drop,nan_count=25; coerced_to_nan=0
+c_AXp-3dv,dropped,has_nan,nan_drop,nan_count=25; coerced_to_nan=0
+c_AXp-4d,dropped,has_nan,nan_drop,nan_count=60; coerced_to_nan=0
+c_AXp-4dv,dropped,has_nan,nan_drop,nan_count=60; coerced_to_nan=0
+c_AXp-5d,dropped,has_nan,nan_drop,nan_count=93; coerced_to_nan=0
+c_AXp-5dv,dropped,has_nan,nan_drop,nan_count=93; coerced_to_nan=0
+c_AXp-6d,dropped,has_nan,nan_drop,nan_count=122; coerced_to_nan=0
+c_AXp-6dv,dropped,has_nan,nan_drop,nan_count=122; coerced_to_nan=0
+c_AXp-7d,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_AXp-7dv,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_BCUTare-1h,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_BCUTare-1l,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_BCUTc-1h,dropped,has_nan,nan_drop,nan_count=6; coerced_to_nan=0
+c_BCUTc-1l,dropped,has_nan,nan_drop,nan_count=6; coerced_to_nan=0
+c_BCUTs-1h,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_BCUTs-1l,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_BCUTse-1h,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_BCUTse-1l,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_BIC0,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_BIC1,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_BIC2,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_BIC3,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_BIC4,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_BIC5,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_DetourIndex,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_ETA_eta_B,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_ETA_eta_BR,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_GATS1Z,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_GATS1are,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_GATS1c,dropped,has_nan,nan_drop,nan_count=9; coerced_to_nan=0
+c_GATS1d,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_GATS1dv,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_GATS1i,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_GATS1m,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_GATS1p,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_GATS1pe,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_GATS1s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_GATS1se,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_GATS1v,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_GATS2Z,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_GATS2are,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_GATS2c,dropped,has_nan,nan_drop,nan_count=9; coerced_to_nan=0
+c_GATS2d,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_GATS2dv,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_GATS2i,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_GATS2m,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_GATS2p,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_GATS2pe,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_GATS2s,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_GATS2se,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_GATS2v,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_GATS3Z,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_GATS3are,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_GATS3c,dropped,has_nan,nan_drop,nan_count=12; coerced_to_nan=0
+c_GATS3d,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_GATS3dv,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_GATS3i,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_GATS3m,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_GATS3p,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_GATS3pe,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_GATS3s,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_GATS3se,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_GATS3v,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_GATS4Z,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_GATS4are,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_GATS4c,dropped,has_nan,nan_drop,nan_count=19; coerced_to_nan=0
+c_GATS4d,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_GATS4dv,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_GATS4i,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_GATS4m,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_GATS4p,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_GATS4pe,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_GATS4s,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_GATS4se,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_GATS4v,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_GATS5Z,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_GATS5are,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_GATS5c,dropped,has_nan,nan_drop,nan_count=55; coerced_to_nan=0
+c_GATS5d,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_GATS5dv,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_GATS5i,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_GATS5m,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_GATS5p,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_GATS5pe,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_GATS5s,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_GATS5se,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_GATS5v,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_GATS6Z,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_GATS6are,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_GATS6c,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+c_GATS6d,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_GATS6dv,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_GATS6i,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_GATS6m,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_GATS6p,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_GATS6pe,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_GATS6s,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_GATS6se,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_GATS6v,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_GATS7Z,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_GATS7are,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_GATS7c,dropped,has_nan,nan_drop,nan_count=210; coerced_to_nan=0
+c_GATS7d,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_GATS7dv,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_GATS7i,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_GATS7m,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_GATS7p,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_GATS7pe,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_GATS7s,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_GATS7se,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_GATS7v,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_GATS8Z,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_GATS8are,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_GATS8c,dropped,has_nan,nan_drop,nan_count=311; coerced_to_nan=0
+c_GATS8d,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_GATS8dv,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_GATS8i,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_GATS8m,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_GATS8p,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_GATS8pe,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_GATS8s,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_GATS8se,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_GATS8v,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_HybRatio,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_Kier1,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_Kier2,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_Kier3,dropped,has_nan,nan_drop,nan_count=25; coerced_to_nan=0
+c_LogEE_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_LogEE_Dzare,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_LogEE_Dzse,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_MATS1Z,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_MATS1are,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_MATS1c,dropped,has_nan,nan_drop,nan_count=9; coerced_to_nan=0
+c_MATS1d,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_MATS1dv,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_MATS1i,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_MATS1m,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_MATS1p,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_MATS1pe,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_MATS1s,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_MATS1se,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_MATS1v,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_MATS2Z,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_MATS2are,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_MATS2c,dropped,has_nan,nan_drop,nan_count=9; coerced_to_nan=0
+c_MATS2d,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_MATS2dv,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_MATS2i,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_MATS2m,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_MATS2p,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_MATS2pe,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_MATS2s,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_MATS2se,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+c_MATS2v,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+c_MATS3Z,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_MATS3are,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_MATS3c,dropped,has_nan,nan_drop,nan_count=12; coerced_to_nan=0
+c_MATS3d,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_MATS3dv,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_MATS3i,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_MATS3m,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_MATS3p,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_MATS3pe,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_MATS3s,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_MATS3se,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_MATS3v,dropped,has_nan,nan_drop,nan_count=7; coerced_to_nan=0
+c_MATS4Z,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_MATS4are,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_MATS4c,dropped,has_nan,nan_drop,nan_count=19; coerced_to_nan=0
+c_MATS4d,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_MATS4dv,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_MATS4i,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_MATS4m,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_MATS4p,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_MATS4pe,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_MATS4s,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_MATS4se,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_MATS4v,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_MATS5Z,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_MATS5are,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_MATS5c,dropped,has_nan,nan_drop,nan_count=55; coerced_to_nan=0
+c_MATS5d,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_MATS5dv,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_MATS5i,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_MATS5m,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_MATS5p,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_MATS5pe,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_MATS5s,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_MATS5se,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_MATS5v,dropped,has_nan,nan_drop,nan_count=52; coerced_to_nan=0
+c_MATS6Z,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_MATS6are,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_MATS6c,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+c_MATS6d,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_MATS6dv,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_MATS6i,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_MATS6m,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_MATS6p,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_MATS6pe,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_MATS6s,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_MATS6se,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_MATS6v,dropped,has_nan,nan_drop,nan_count=99; coerced_to_nan=0
+c_MATS7Z,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_MATS7are,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_MATS7c,dropped,has_nan,nan_drop,nan_count=210; coerced_to_nan=0
+c_MATS7d,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_MATS7dv,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_MATS7i,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_MATS7m,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_MATS7p,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_MATS7pe,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_MATS7s,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_MATS7se,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_MATS7v,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+c_MATS8Z,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_MATS8are,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_MATS8c,dropped,has_nan,nan_drop,nan_count=311; coerced_to_nan=0
+c_MATS8d,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_MATS8dv,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_MATS8i,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_MATS8m,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_MATS8p,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_MATS8pe,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_MATS8s,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_MATS8se,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_MATS8v,dropped,has_nan,nan_drop,nan_count=309; coerced_to_nan=0
+c_MAXaaCH,dropped,has_nan,nan_drop,nan_count=538; coerced_to_nan=0
+c_MAXaaN,dropped,has_nan,nan_drop,nan_count=1058; coerced_to_nan=0
+c_MAXaaNH,dropped,has_nan,nan_drop,nan_count=1188; coerced_to_nan=0
+c_MAXaaO,dropped,has_nan,nan_drop,nan_count=1186; coerced_to_nan=0
+c_MAXaaS,dropped,has_nan,nan_drop,nan_count=1191; coerced_to_nan=0
+c_MAXaaSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXaaaC,dropped,has_nan,nan_drop,nan_count=1142; coerced_to_nan=0
+c_MAXaasC,dropped,has_nan,nan_drop,nan_count=522; coerced_to_nan=0
+c_MAXaasN,dropped,has_nan,nan_drop,nan_count=1134; coerced_to_nan=0
+c_MAXdCH2,dropped,has_nan,nan_drop,nan_count=1170; coerced_to_nan=0
+c_MAXdNH,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+c_MAXdO,dropped,has_nan,nan_drop,nan_count=455; coerced_to_nan=0
+c_MAXdS,dropped,has_nan,nan_drop,nan_count=1170; coerced_to_nan=0
+c_MAXdSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXddC,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+c_MAXddsN,dropped,has_nan,nan_drop,nan_count=1159; coerced_to_nan=0
+c_MAXddssS,dropped,has_nan,nan_drop,nan_count=1111; coerced_to_nan=0
+c_MAXddssSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXdsCH,dropped,has_nan,nan_drop,nan_count=1049; coerced_to_nan=0
+c_MAXdsN,dropped,has_nan,nan_drop,nan_count=1147; coerced_to_nan=0
+c_MAXdssC,dropped,has_nan,nan_drop,nan_count=593; coerced_to_nan=0
+c_MAXdssS,dropped,has_nan,nan_drop,nan_count=1204; coerced_to_nan=0
+c_MAXdssSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXdsssP,dropped,has_nan,nan_drop,nan_count=1158; coerced_to_nan=0
+c_MAXsAsH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXsBr,dropped,has_nan,nan_drop,nan_count=1194; coerced_to_nan=0
+c_MAXsCH3,dropped,has_nan,nan_drop,nan_count=384; coerced_to_nan=0
+c_MAXsCl,dropped,has_nan,nan_drop,nan_count=982; coerced_to_nan=0
+c_MAXsF,dropped,has_nan,nan_drop,nan_count=1104; coerced_to_nan=0
+c_MAXsGeH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXsI,dropped,has_nan,nan_drop,nan_count=1205; coerced_to_nan=0
+c_MAXsLi,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXsNH2,dropped,has_nan,nan_drop,nan_count=1105; coerced_to_nan=0
+c_MAXsNH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXsOH,dropped,has_nan,nan_drop,nan_count=746; coerced_to_nan=0
+c_MAXsPH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXsPbH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXsSH,dropped,has_nan,nan_drop,nan_count=1197; coerced_to_nan=0
+c_MAXsSeH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXsSiH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXsSnH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXssAsH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXssBH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXssBe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXssCH2,dropped,has_nan,nan_drop,nan_count=455; coerced_to_nan=0
+c_MAXssGeH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXssNH,dropped,has_nan,nan_drop,nan_count=1030; coerced_to_nan=0
+c_MAXssNH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXssO,dropped,has_nan,nan_drop,nan_count=698; coerced_to_nan=0
+c_MAXssPH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXssPbH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXssS,dropped,has_nan,nan_drop,nan_count=1156; coerced_to_nan=0
+c_MAXssSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXssSiH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXssSnH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXsssAs,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXsssB,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+c_MAXsssCH,dropped,has_nan,nan_drop,nan_count=811; coerced_to_nan=0
+c_MAXsssGeH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXsssN,dropped,has_nan,nan_drop,nan_count=1061; coerced_to_nan=0
+c_MAXsssNH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXsssP,dropped,has_nan,nan_drop,nan_count=1206; coerced_to_nan=0
+c_MAXsssPbH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXsssSiH,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+c_MAXsssSnH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXsssdAs,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+c_MAXssssB,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+c_MAXssssBe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXssssC,dropped,has_nan,nan_drop,nan_count=922; coerced_to_nan=0
+c_MAXssssGe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXssssN,dropped,has_nan,nan_drop,nan_count=1205; coerced_to_nan=0
+c_MAXssssPb,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXssssSi,dropped,has_nan,nan_drop,nan_count=1196; coerced_to_nan=0
+c_MAXssssSn,dropped,has_nan,nan_drop,nan_count=1209; coerced_to_nan=0
+c_MAXsssssAs,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXsssssP,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MAXtCH,dropped,has_nan,nan_drop,nan_count=1204; coerced_to_nan=0
+c_MAXtN,dropped,has_nan,nan_drop,nan_count=1178; coerced_to_nan=0
+c_MAXtsC,dropped,has_nan,nan_drop,nan_count=1170; coerced_to_nan=0
+c_MDEC-11,dropped,has_nan,nan_drop,nan_count=633; coerced_to_nan=0
+c_MDEC-12,dropped,has_nan,nan_drop,nan_count=414; coerced_to_nan=0
+c_MDEC-13,dropped,has_nan,nan_drop,nan_count=472; coerced_to_nan=0
+c_MDEC-14,dropped,has_nan,nan_drop,nan_count=986; coerced_to_nan=0
+c_MDEC-22,dropped,has_nan,nan_drop,nan_count=154; coerced_to_nan=0
+c_MDEC-23,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+c_MDEC-24,dropped,has_nan,nan_drop,nan_count=948; coerced_to_nan=0
+c_MDEC-33,dropped,has_nan,nan_drop,nan_count=312; coerced_to_nan=0
+c_MDEC-34,dropped,has_nan,nan_drop,nan_count=941; coerced_to_nan=0
+c_MDEC-44,dropped,has_nan,nan_drop,nan_count=1120; coerced_to_nan=0
+c_MDEN-11,dropped,has_nan,nan_drop,nan_count=1182; coerced_to_nan=0
+c_MDEN-12,dropped,has_nan,nan_drop,nan_count=1163; coerced_to_nan=0
+c_MDEN-13,dropped,has_nan,nan_drop,nan_count=1178; coerced_to_nan=0
+c_MDEN-22,dropped,has_nan,nan_drop,nan_count=1049; coerced_to_nan=0
+c_MDEN-23,dropped,has_nan,nan_drop,nan_count=1081; coerced_to_nan=0
+c_MDEN-33,dropped,has_nan,nan_drop,nan_count=1141; coerced_to_nan=0
+c_MDEO-11,dropped,has_nan,nan_drop,nan_count=667; coerced_to_nan=0
+c_MDEO-12,dropped,has_nan,nan_drop,nan_count=766; coerced_to_nan=0
+c_MDEO-22,dropped,has_nan,nan_drop,nan_count=956; coerced_to_nan=0
+c_MINaaCH,dropped,has_nan,nan_drop,nan_count=538; coerced_to_nan=0
+c_MINaaN,dropped,has_nan,nan_drop,nan_count=1058; coerced_to_nan=0
+c_MINaaNH,dropped,has_nan,nan_drop,nan_count=1188; coerced_to_nan=0
+c_MINaaO,dropped,has_nan,nan_drop,nan_count=1186; coerced_to_nan=0
+c_MINaaS,dropped,has_nan,nan_drop,nan_count=1191; coerced_to_nan=0
+c_MINaaSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINaaaC,dropped,has_nan,nan_drop,nan_count=1142; coerced_to_nan=0
+c_MINaasC,dropped,has_nan,nan_drop,nan_count=522; coerced_to_nan=0
+c_MINaasN,dropped,has_nan,nan_drop,nan_count=1134; coerced_to_nan=0
+c_MINdCH2,dropped,has_nan,nan_drop,nan_count=1170; coerced_to_nan=0
+c_MINdNH,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+c_MINdO,dropped,has_nan,nan_drop,nan_count=455; coerced_to_nan=0
+c_MINdS,dropped,has_nan,nan_drop,nan_count=1170; coerced_to_nan=0
+c_MINdSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINddC,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+c_MINddsN,dropped,has_nan,nan_drop,nan_count=1159; coerced_to_nan=0
+c_MINddssS,dropped,has_nan,nan_drop,nan_count=1111; coerced_to_nan=0
+c_MINddssSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINdsCH,dropped,has_nan,nan_drop,nan_count=1049; coerced_to_nan=0
+c_MINdsN,dropped,has_nan,nan_drop,nan_count=1147; coerced_to_nan=0
+c_MINdssC,dropped,has_nan,nan_drop,nan_count=593; coerced_to_nan=0
+c_MINdssS,dropped,has_nan,nan_drop,nan_count=1204; coerced_to_nan=0
+c_MINdssSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINdsssP,dropped,has_nan,nan_drop,nan_count=1158; coerced_to_nan=0
+c_MINsAsH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINsBr,dropped,has_nan,nan_drop,nan_count=1194; coerced_to_nan=0
+c_MINsCH3,dropped,has_nan,nan_drop,nan_count=384; coerced_to_nan=0
+c_MINsCl,dropped,has_nan,nan_drop,nan_count=982; coerced_to_nan=0
+c_MINsF,dropped,has_nan,nan_drop,nan_count=1104; coerced_to_nan=0
+c_MINsGeH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINsI,dropped,has_nan,nan_drop,nan_count=1205; coerced_to_nan=0
+c_MINsLi,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINsNH2,dropped,has_nan,nan_drop,nan_count=1105; coerced_to_nan=0
+c_MINsNH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINsOH,dropped,has_nan,nan_drop,nan_count=746; coerced_to_nan=0
+c_MINsPH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINsPbH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINsSH,dropped,has_nan,nan_drop,nan_count=1197; coerced_to_nan=0
+c_MINsSeH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINsSiH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINsSnH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINssAsH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINssBH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINssBe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINssCH2,dropped,has_nan,nan_drop,nan_count=455; coerced_to_nan=0
+c_MINssGeH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINssNH,dropped,has_nan,nan_drop,nan_count=1030; coerced_to_nan=0
+c_MINssNH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINssO,dropped,has_nan,nan_drop,nan_count=698; coerced_to_nan=0
+c_MINssPH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINssPbH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINssS,dropped,has_nan,nan_drop,nan_count=1156; coerced_to_nan=0
+c_MINssSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINssSiH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINssSnH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINsssAs,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINsssB,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+c_MINsssCH,dropped,has_nan,nan_drop,nan_count=811; coerced_to_nan=0
+c_MINsssGeH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINsssN,dropped,has_nan,nan_drop,nan_count=1061; coerced_to_nan=0
+c_MINsssNH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINsssP,dropped,has_nan,nan_drop,nan_count=1206; coerced_to_nan=0
+c_MINsssPbH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINsssSiH,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+c_MINsssSnH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINsssdAs,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+c_MINssssB,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+c_MINssssBe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINssssC,dropped,has_nan,nan_drop,nan_count=922; coerced_to_nan=0
+c_MINssssGe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINssssN,dropped,has_nan,nan_drop,nan_count=1205; coerced_to_nan=0
+c_MINssssPb,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINssssSi,dropped,has_nan,nan_drop,nan_count=1196; coerced_to_nan=0
+c_MINssssSn,dropped,has_nan,nan_drop,nan_count=1209; coerced_to_nan=0
+c_MINsssssAs,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINsssssP,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_MINtCH,dropped,has_nan,nan_drop,nan_count=1204; coerced_to_nan=0
+c_MINtN,dropped,has_nan,nan_drop,nan_count=1178; coerced_to_nan=0
+c_MINtsC,dropped,has_nan,nan_drop,nan_count=1170; coerced_to_nan=0
+c_Mare,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_Mse,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_NaaSe,dropped,zero_variance,nan_drop|variance_drop,
+c_NdSe,dropped,zero_variance,nan_drop|variance_drop,
+c_NddssSe,dropped,zero_variance,nan_drop|variance_drop,
+c_NdssSe,dropped,zero_variance,nan_drop|variance_drop,
+c_NsAsH2,dropped,zero_variance,nan_drop|variance_drop,
+c_NsGeH3,dropped,zero_variance,nan_drop|variance_drop,
+c_NsLi,dropped,zero_variance,nan_drop|variance_drop,
+c_NsNH3,dropped,zero_variance,nan_drop|variance_drop,
+c_NsPH2,dropped,zero_variance,nan_drop|variance_drop,
+c_NsPbH3,dropped,zero_variance,nan_drop|variance_drop,
+c_NsSeH,dropped,zero_variance,nan_drop|variance_drop,
+c_NsSiH3,dropped,zero_variance,nan_drop|variance_drop,
+c_NsSnH3,dropped,zero_variance,nan_drop|variance_drop,
+c_NssAsH,dropped,zero_variance,nan_drop|variance_drop,
+c_NssBH,dropped,zero_variance,nan_drop|variance_drop,
+c_NssBe,dropped,zero_variance,nan_drop|variance_drop,
+c_NssGeH2,dropped,zero_variance,nan_drop|variance_drop,
+c_NssNH2,dropped,zero_variance,nan_drop|variance_drop,
+c_NssPH,dropped,zero_variance,nan_drop|variance_drop,
+c_NssPbH2,dropped,zero_variance,nan_drop|variance_drop,
+c_NssSe,dropped,zero_variance,nan_drop|variance_drop,
+c_NssSiH2,dropped,zero_variance,nan_drop|variance_drop,
+c_NssSnH2,dropped,zero_variance,nan_drop|variance_drop,
+c_NsssAs,dropped,zero_variance,nan_drop|variance_drop,
+c_NsssGeH,dropped,zero_variance,nan_drop|variance_drop,
+c_NsssNH,dropped,zero_variance,nan_drop|variance_drop,
+c_NsssPbH,dropped,zero_variance,nan_drop|variance_drop,
+c_NsssSnH,dropped,zero_variance,nan_drop|variance_drop,
+c_NssssBe,dropped,zero_variance,nan_drop|variance_drop,
+c_NssssGe,dropped,zero_variance,nan_drop|variance_drop,
+c_NssssPb,dropped,zero_variance,nan_drop|variance_drop,
+c_NsssssAs,dropped,zero_variance,nan_drop|variance_drop,
+c_NsssssP,dropped,zero_variance,nan_drop|variance_drop,
+c_PetitjeanIndex,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_RNCG,dropped,has_nan,nan_drop,nan_count=6; coerced_to_nan=0
+c_RPCG,dropped,has_nan,nan_drop,nan_count=6; coerced_to_nan=0
+c_RotRatio,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_SIC0,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_SIC1,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_SIC2,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_SIC3,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_SIC4,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_SIC5,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_SM1_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_SM1_Dzare,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_SM1_Dzse,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_SMR_VSA8,dropped,zero_variance,nan_drop|variance_drop,
+c_SaaSe,dropped,zero_variance,nan_drop|variance_drop,
+c_Sare,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_SdSe,dropped,zero_variance,nan_drop|variance_drop,
+c_SddssSe,dropped,zero_variance,nan_drop|variance_drop,
+c_SdssSe,dropped,zero_variance,nan_drop|variance_drop,
+c_SlogP_VSA9,dropped,zero_variance,nan_drop|variance_drop,
+c_SpAD_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_SpAD_Dzare,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_SpAD_Dzse,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_SpAbs_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_SpAbs_Dzare,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_SpAbs_Dzse,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_SpDiam_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_SpDiam_Dzare,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_SpDiam_Dzse,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_SpMAD_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_SpMAD_Dzare,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_SpMAD_Dzse,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_SpMax_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_SpMax_Dzare,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_SpMax_Dzse,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_SsAsH2,dropped,zero_variance,nan_drop|variance_drop,
+c_SsGeH3,dropped,zero_variance,nan_drop|variance_drop,
+c_SsLi,dropped,zero_variance,nan_drop|variance_drop,
+c_SsNH3,dropped,zero_variance,nan_drop|variance_drop,
+c_SsPH2,dropped,zero_variance,nan_drop|variance_drop,
+c_SsPbH3,dropped,zero_variance,nan_drop|variance_drop,
+c_SsSeH,dropped,zero_variance,nan_drop|variance_drop,
+c_SsSiH3,dropped,zero_variance,nan_drop|variance_drop,
+c_SsSnH3,dropped,zero_variance,nan_drop|variance_drop,
+c_Sse,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_SssAsH,dropped,zero_variance,nan_drop|variance_drop,
+c_SssBH,dropped,zero_variance,nan_drop|variance_drop,
+c_SssBe,dropped,zero_variance,nan_drop|variance_drop,
+c_SssGeH2,dropped,zero_variance,nan_drop|variance_drop,
+c_SssNH2,dropped,zero_variance,nan_drop|variance_drop,
+c_SssPH,dropped,zero_variance,nan_drop|variance_drop,
+c_SssPbH2,dropped,zero_variance,nan_drop|variance_drop,
+c_SssSe,dropped,zero_variance,nan_drop|variance_drop,
+c_SssSiH2,dropped,zero_variance,nan_drop|variance_drop,
+c_SssSnH2,dropped,zero_variance,nan_drop|variance_drop,
+c_SsssAs,dropped,zero_variance,nan_drop|variance_drop,
+c_SsssGeH,dropped,zero_variance,nan_drop|variance_drop,
+c_SsssNH,dropped,zero_variance,nan_drop|variance_drop,
+c_SsssPbH,dropped,zero_variance,nan_drop|variance_drop,
+c_SsssSnH,dropped,zero_variance,nan_drop|variance_drop,
+c_SssssBe,dropped,zero_variance,nan_drop|variance_drop,
+c_SssssGe,dropped,zero_variance,nan_drop|variance_drop,
+c_SssssPb,dropped,zero_variance,nan_drop|variance_drop,
+c_SsssssAs,dropped,zero_variance,nan_drop|variance_drop,
+c_SsssssP,dropped,zero_variance,nan_drop|variance_drop,
+c_TopoShapeIndex,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_VAdjMat,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_VE1_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_VE1_Dzare,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_VE1_Dzse,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_VE2_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_VE2_Dzare,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_VE2_Dzse,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_VE3_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_VE3_Dzare,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_VE3_Dzse,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_VR1_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_VR1_Dzare,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_VR1_Dzse,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_VR2_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_VR2_Dzare,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_VR2_Dzse,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_VR3_A,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_VR3_D,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_VR3_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+c_VR3_DzZ,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_VR3_Dzare,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_VR3_Dzi,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_VR3_Dzm,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_VR3_Dzp,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_VR3_Dzpe,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_VR3_Dzse,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_VR3_Dzv,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_Vabc,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+c_Xp-0d,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_Xp-0dv,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+c_mZagreb1,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+c_n10AHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n10ARing,dropped,zero_variance,nan_drop|variance_drop,
+c_n10HRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n10Ring,dropped,zero_variance,nan_drop|variance_drop,
+c_n10aHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n10aRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n11AHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n11ARing,dropped,zero_variance,nan_drop|variance_drop,
+c_n11FaHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n11FaRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n11HRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n11Ring,dropped,zero_variance,nan_drop|variance_drop,
+c_n11aHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n11aRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n12AHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n12FaHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n12FaRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n12HRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n12aHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n12aRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n3aHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n3aRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n4AHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n4FAHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n4FARing,dropped,zero_variance,nan_drop|variance_drop,
+c_n4FHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n4FRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n4FaHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n4FaRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n4HRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n4aHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n4aRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n5FAHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n5FARing,dropped,zero_variance,nan_drop|variance_drop,
+c_n5FHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n5FRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n5FaHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n5FaRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n6FaHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n6FaRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n7FaHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n7FaRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n7aHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n8FaHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n8FaRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n8aHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n8aRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n9AHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n9ARing,dropped,zero_variance,nan_drop|variance_drop,
+c_n9HRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n9Ring,dropped,zero_variance,nan_drop|variance_drop,
+c_n9aHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_n9aRing,dropped,zero_variance,nan_drop|variance_drop,
+c_nG12aHRing,dropped,zero_variance,nan_drop|variance_drop,
+c_nG12aRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_AATS0are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_AATS0s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_AATS0se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_AATS1Z,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATS1are,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATS1d,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATS1dv,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATS1i,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATS1m,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATS1p,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATS1pe,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATS1s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_AATS1se,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATS1v,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATS2Z,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATS2are,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATS2d,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATS2dv,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATS2i,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATS2m,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATS2p,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATS2pe,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATS2s,dropped,has_nan,nan_drop,nan_count=114; coerced_to_nan=0
+nc_AATS2se,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATS2v,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATS3Z,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATS3are,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATS3d,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATS3dv,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATS3i,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATS3m,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATS3p,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATS3pe,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATS3s,dropped,has_nan,nan_drop,nan_count=115; coerced_to_nan=0
+nc_AATS3se,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATS3v,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATS4Z,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATS4are,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATS4d,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATS4dv,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATS4i,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATS4m,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATS4p,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATS4pe,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATS4s,dropped,has_nan,nan_drop,nan_count=121; coerced_to_nan=0
+nc_AATS4se,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATS4v,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATS5Z,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATS5are,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATS5d,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATS5dv,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATS5i,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATS5m,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATS5p,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATS5pe,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATS5s,dropped,has_nan,nan_drop,nan_count=152; coerced_to_nan=0
+nc_AATS5se,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATS5v,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATS6Z,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATS6are,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATS6d,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATS6dv,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATS6i,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATS6m,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATS6p,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATS6pe,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATS6s,dropped,has_nan,nan_drop,nan_count=191; coerced_to_nan=0
+nc_AATS6se,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATS6v,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATS7Z,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATS7are,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATS7d,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATS7dv,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATS7i,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATS7m,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATS7p,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATS7pe,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATS7s,dropped,has_nan,nan_drop,nan_count=292; coerced_to_nan=0
+nc_AATS7se,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATS7v,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATS8Z,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATS8are,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATS8d,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATS8dv,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATS8i,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATS8m,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATS8p,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATS8pe,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATS8s,dropped,has_nan,nan_drop,nan_count=387; coerced_to_nan=0
+nc_AATS8se,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATS8v,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATSC0are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_AATSC0c,dropped,has_nan,nan_drop,nan_count=8; coerced_to_nan=0
+nc_AATSC0s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_AATSC0se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_AATSC1Z,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATSC1are,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATSC1c,dropped,has_nan,nan_drop,nan_count=11; coerced_to_nan=0
+nc_AATSC1d,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATSC1dv,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATSC1i,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATSC1m,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATSC1p,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATSC1pe,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATSC1s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_AATSC1se,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATSC1v,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AATSC2Z,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATSC2are,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATSC2c,dropped,has_nan,nan_drop,nan_count=11; coerced_to_nan=0
+nc_AATSC2d,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATSC2dv,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATSC2i,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATSC2m,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATSC2p,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATSC2pe,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATSC2s,dropped,has_nan,nan_drop,nan_count=114; coerced_to_nan=0
+nc_AATSC2se,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATSC2v,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_AATSC3Z,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATSC3are,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATSC3c,dropped,has_nan,nan_drop,nan_count=17; coerced_to_nan=0
+nc_AATSC3d,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATSC3dv,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATSC3i,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATSC3m,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATSC3p,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATSC3pe,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATSC3s,dropped,has_nan,nan_drop,nan_count=115; coerced_to_nan=0
+nc_AATSC3se,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATSC3v,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_AATSC4Z,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATSC4are,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATSC4c,dropped,has_nan,nan_drop,nan_count=28; coerced_to_nan=0
+nc_AATSC4d,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATSC4dv,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATSC4i,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATSC4m,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATSC4p,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATSC4pe,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATSC4s,dropped,has_nan,nan_drop,nan_count=121; coerced_to_nan=0
+nc_AATSC4se,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATSC4v,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_AATSC5Z,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATSC5are,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATSC5c,dropped,has_nan,nan_drop,nan_count=61; coerced_to_nan=0
+nc_AATSC5d,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATSC5dv,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATSC5i,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATSC5m,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATSC5p,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATSC5pe,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATSC5s,dropped,has_nan,nan_drop,nan_count=152; coerced_to_nan=0
+nc_AATSC5se,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATSC5v,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_AATSC6Z,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATSC6are,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATSC6c,dropped,has_nan,nan_drop,nan_count=106; coerced_to_nan=0
+nc_AATSC6d,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATSC6dv,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATSC6i,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATSC6m,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATSC6p,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATSC6pe,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATSC6s,dropped,has_nan,nan_drop,nan_count=191; coerced_to_nan=0
+nc_AATSC6se,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATSC6v,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_AATSC7Z,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATSC7are,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATSC7c,dropped,has_nan,nan_drop,nan_count=214; coerced_to_nan=0
+nc_AATSC7d,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATSC7dv,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATSC7i,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATSC7m,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATSC7p,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATSC7pe,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATSC7s,dropped,has_nan,nan_drop,nan_count=292; coerced_to_nan=0
+nc_AATSC7se,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATSC7v,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_AATSC8Z,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATSC8are,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATSC8c,dropped,has_nan,nan_drop,nan_count=315; coerced_to_nan=0
+nc_AATSC8d,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATSC8dv,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATSC8i,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATSC8m,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATSC8p,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATSC8pe,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATSC8s,dropped,has_nan,nan_drop,nan_count=387; coerced_to_nan=0
+nc_AATSC8se,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AATSC8v,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_AETA_alpha,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AETA_beta,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AETA_beta_ns,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AETA_beta_ns_d,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AETA_beta_s,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AETA_dBeta,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AETA_eta,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AETA_eta_B,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AETA_eta_BR,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AETA_eta_F,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AETA_eta_FL,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AETA_eta_L,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AETA_eta_R,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AETA_eta_RL,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AMID,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AMID_C,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AMID_N,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AMID_O,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AMID_X,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_AMID_h,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ATS0are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATS0s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATS0se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATS1are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATS1s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATS1se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATS2are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATS2s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATS2se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATS3are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATS3s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATS3se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATS4are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATS4s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATS4se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATS5are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATS5s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATS5se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATS6are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATS6s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATS6se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATS7are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATS7s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATS7se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATS8are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATS8s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATS8se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC0are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC0c,dropped,has_nan,nan_drop,nan_count=8; coerced_to_nan=0
+nc_ATSC0s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATSC0se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC1are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC1c,dropped,has_nan,nan_drop,nan_count=8; coerced_to_nan=0
+nc_ATSC1s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATSC1se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC2are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC2c,dropped,has_nan,nan_drop,nan_count=8; coerced_to_nan=0
+nc_ATSC2s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATSC2se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC3are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC3c,dropped,has_nan,nan_drop,nan_count=8; coerced_to_nan=0
+nc_ATSC3s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATSC3se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC4are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC4c,dropped,has_nan,nan_drop,nan_count=8; coerced_to_nan=0
+nc_ATSC4s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATSC4se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC5are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC5c,dropped,has_nan,nan_drop,nan_count=8; coerced_to_nan=0
+nc_ATSC5s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATSC5se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC6are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC6c,dropped,has_nan,nan_drop,nan_count=8; coerced_to_nan=0
+nc_ATSC6s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATSC6se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC7are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC7c,dropped,has_nan,nan_drop,nan_count=8; coerced_to_nan=0
+nc_ATSC7s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATSC7se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC8are,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_ATSC8c,dropped,has_nan,nan_drop,nan_count=8; coerced_to_nan=0
+nc_ATSC8s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_ATSC8se,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_AXp-0d,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_AXp-0dv,dropped,has_nan,nan_drop,nan_count=84; coerced_to_nan=0
+nc_AXp-1d,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AXp-1dv,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_AXp-2d,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+nc_AXp-2dv,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+nc_AXp-3d,dropped,has_nan,nan_drop,nan_count=25; coerced_to_nan=0
+nc_AXp-3dv,dropped,has_nan,nan_drop,nan_count=25; coerced_to_nan=0
+nc_AXp-4d,dropped,has_nan,nan_drop,nan_count=60; coerced_to_nan=0
+nc_AXp-4dv,dropped,has_nan,nan_drop,nan_count=60; coerced_to_nan=0
+nc_AXp-5d,dropped,has_nan,nan_drop,nan_count=93; coerced_to_nan=0
+nc_AXp-5dv,dropped,has_nan,nan_drop,nan_count=93; coerced_to_nan=0
+nc_AXp-6d,dropped,has_nan,nan_drop,nan_count=122; coerced_to_nan=0
+nc_AXp-6dv,dropped,has_nan,nan_drop,nan_count=122; coerced_to_nan=0
+nc_AXp-7d,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+nc_AXp-7dv,dropped,has_nan,nan_drop,nan_count=208; coerced_to_nan=0
+nc_BCUTZ-1h,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTZ-1l,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTare-1h,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTare-1l,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTc-1h,dropped,has_nan,nan_drop,nan_count=136; coerced_to_nan=0
+nc_BCUTc-1l,dropped,has_nan,nan_drop,nan_count=136; coerced_to_nan=0
+nc_BCUTd-1h,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTd-1l,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTdv-1h,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTdv-1l,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTi-1h,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTi-1l,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTm-1h,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTm-1l,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTp-1h,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTp-1l,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTpe-1h,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTpe-1l,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTs-1h,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTs-1l,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTse-1h,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTse-1l,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTv-1h,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BCUTv-1l,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_BIC0,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_BIC1,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_BIC2,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_BIC3,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_BIC4,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_BIC5,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_DetourIndex,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_ETA_alpha,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_beta,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_beta_ns,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_beta_ns_d,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_beta_s,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_dAlpha_A,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_dAlpha_B,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_dBeta,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_dEpsilon_A,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_dEpsilon_B,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_dEpsilon_C,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_dEpsilon_D,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_dPsi_A,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_dPsi_B,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_epsilon_1,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_epsilon_2,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_epsilon_3,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_epsilon_4,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_epsilon_5,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_eta,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_eta_B,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_eta_BR,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_eta_F,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_eta_FL,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_eta_L,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_eta_R,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_eta_RL,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_psi_1,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_shape_p,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_shape_x,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_ETA_shape_y,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_GATS1Z,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_GATS1are,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_GATS1c,dropped,has_nan,nan_drop,nan_count=11; coerced_to_nan=0
+nc_GATS1d,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+nc_GATS1dv,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_GATS1i,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_GATS1m,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_GATS1p,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_GATS1pe,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_GATS1s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_GATS1se,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_GATS1v,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_GATS2Z,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_GATS2are,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_GATS2c,dropped,has_nan,nan_drop,nan_count=11; coerced_to_nan=0
+nc_GATS2d,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+nc_GATS2dv,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_GATS2i,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_GATS2m,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_GATS2p,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_GATS2pe,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_GATS2s,dropped,has_nan,nan_drop,nan_count=114; coerced_to_nan=0
+nc_GATS2se,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_GATS2v,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_GATS3Z,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_GATS3are,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_GATS3c,dropped,has_nan,nan_drop,nan_count=17; coerced_to_nan=0
+nc_GATS3d,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_GATS3dv,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_GATS3i,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_GATS3m,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_GATS3p,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_GATS3pe,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_GATS3s,dropped,has_nan,nan_drop,nan_count=115; coerced_to_nan=0
+nc_GATS3se,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_GATS3v,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_GATS4Z,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_GATS4are,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_GATS4c,dropped,has_nan,nan_drop,nan_count=28; coerced_to_nan=0
+nc_GATS4d,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_GATS4dv,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_GATS4i,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_GATS4m,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_GATS4p,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_GATS4pe,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_GATS4s,dropped,has_nan,nan_drop,nan_count=121; coerced_to_nan=0
+nc_GATS4se,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_GATS4v,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_GATS5Z,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_GATS5are,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_GATS5c,dropped,has_nan,nan_drop,nan_count=61; coerced_to_nan=0
+nc_GATS5d,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_GATS5dv,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_GATS5i,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_GATS5m,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_GATS5p,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_GATS5pe,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_GATS5s,dropped,has_nan,nan_drop,nan_count=152; coerced_to_nan=0
+nc_GATS5se,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_GATS5v,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_GATS6Z,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_GATS6are,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_GATS6c,dropped,has_nan,nan_drop,nan_count=106; coerced_to_nan=0
+nc_GATS6d,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_GATS6dv,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_GATS6i,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_GATS6m,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_GATS6p,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_GATS6pe,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_GATS6s,dropped,has_nan,nan_drop,nan_count=191; coerced_to_nan=0
+nc_GATS6se,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_GATS6v,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_GATS7Z,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_GATS7are,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_GATS7c,dropped,has_nan,nan_drop,nan_count=214; coerced_to_nan=0
+nc_GATS7d,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_GATS7dv,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_GATS7i,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_GATS7m,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_GATS7p,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_GATS7pe,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_GATS7s,dropped,has_nan,nan_drop,nan_count=292; coerced_to_nan=0
+nc_GATS7se,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_GATS7v,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_GATS8Z,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_GATS8are,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_GATS8c,dropped,has_nan,nan_drop,nan_count=315; coerced_to_nan=0
+nc_GATS8d,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_GATS8dv,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_GATS8i,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_GATS8m,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_GATS8p,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_GATS8pe,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_GATS8s,dropped,has_nan,nan_drop,nan_count=387; coerced_to_nan=0
+nc_GATS8se,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_GATS8v,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_HybRatio,dropped,has_nan,nan_drop,nan_count=14; coerced_to_nan=0
+nc_Kier1,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_Kier2,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+nc_Kier3,dropped,has_nan,nan_drop,nan_count=25; coerced_to_nan=0
+nc_LogEE_A,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_LogEE_D,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_LogEE_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_LogEE_DzZ,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_LogEE_Dzare,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_LogEE_Dzi,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_LogEE_Dzm,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_LogEE_Dzp,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_LogEE_Dzpe,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_LogEE_Dzse,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_LogEE_Dzv,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_MATS1Z,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_MATS1are,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_MATS1c,dropped,has_nan,nan_drop,nan_count=11; coerced_to_nan=0
+nc_MATS1d,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+nc_MATS1dv,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_MATS1i,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_MATS1m,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_MATS1p,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_MATS1pe,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_MATS1s,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_MATS1se,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_MATS1v,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_MATS2Z,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_MATS2are,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_MATS2c,dropped,has_nan,nan_drop,nan_count=11; coerced_to_nan=0
+nc_MATS2d,dropped,has_nan,nan_drop,nan_count=5; coerced_to_nan=0
+nc_MATS2dv,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_MATS2i,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_MATS2m,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_MATS2p,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_MATS2pe,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_MATS2s,dropped,has_nan,nan_drop,nan_count=114; coerced_to_nan=0
+nc_MATS2se,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_MATS2v,dropped,has_nan,nan_drop,nan_count=4; coerced_to_nan=0
+nc_MATS3Z,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_MATS3are,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_MATS3c,dropped,has_nan,nan_drop,nan_count=17; coerced_to_nan=0
+nc_MATS3d,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_MATS3dv,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_MATS3i,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_MATS3m,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_MATS3p,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_MATS3pe,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_MATS3s,dropped,has_nan,nan_drop,nan_count=115; coerced_to_nan=0
+nc_MATS3se,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_MATS3v,dropped,has_nan,nan_drop,nan_count=10; coerced_to_nan=0
+nc_MATS4Z,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_MATS4are,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_MATS4c,dropped,has_nan,nan_drop,nan_count=28; coerced_to_nan=0
+nc_MATS4d,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_MATS4dv,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_MATS4i,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_MATS4m,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_MATS4p,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_MATS4pe,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_MATS4s,dropped,has_nan,nan_drop,nan_count=121; coerced_to_nan=0
+nc_MATS4se,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_MATS4v,dropped,has_nan,nan_drop,nan_count=21; coerced_to_nan=0
+nc_MATS5Z,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_MATS5are,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_MATS5c,dropped,has_nan,nan_drop,nan_count=61; coerced_to_nan=0
+nc_MATS5d,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_MATS5dv,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_MATS5i,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_MATS5m,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_MATS5p,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_MATS5pe,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_MATS5s,dropped,has_nan,nan_drop,nan_count=152; coerced_to_nan=0
+nc_MATS5se,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_MATS5v,dropped,has_nan,nan_drop,nan_count=57; coerced_to_nan=0
+nc_MATS6Z,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_MATS6are,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_MATS6c,dropped,has_nan,nan_drop,nan_count=106; coerced_to_nan=0
+nc_MATS6d,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_MATS6dv,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_MATS6i,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_MATS6m,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_MATS6p,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_MATS6pe,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_MATS6s,dropped,has_nan,nan_drop,nan_count=191; coerced_to_nan=0
+nc_MATS6se,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_MATS6v,dropped,has_nan,nan_drop,nan_count=102; coerced_to_nan=0
+nc_MATS7Z,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_MATS7are,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_MATS7c,dropped,has_nan,nan_drop,nan_count=214; coerced_to_nan=0
+nc_MATS7d,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_MATS7dv,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_MATS7i,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_MATS7m,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_MATS7p,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_MATS7pe,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_MATS7s,dropped,has_nan,nan_drop,nan_count=292; coerced_to_nan=0
+nc_MATS7se,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_MATS7v,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_MATS8Z,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_MATS8are,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_MATS8c,dropped,has_nan,nan_drop,nan_count=315; coerced_to_nan=0
+nc_MATS8d,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_MATS8dv,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_MATS8i,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_MATS8m,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_MATS8p,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_MATS8pe,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_MATS8s,dropped,has_nan,nan_drop,nan_count=387; coerced_to_nan=0
+nc_MATS8se,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_MATS8v,dropped,has_nan,nan_drop,nan_count=313; coerced_to_nan=0
+nc_MAXaaCH,dropped,has_nan,nan_drop,nan_count=537; coerced_to_nan=0
+nc_MAXaaN,dropped,has_nan,nan_drop,nan_count=1058; coerced_to_nan=0
+nc_MAXaaNH,dropped,has_nan,nan_drop,nan_count=1188; coerced_to_nan=0
+nc_MAXaaO,dropped,has_nan,nan_drop,nan_count=1185; coerced_to_nan=0
+nc_MAXaaS,dropped,has_nan,nan_drop,nan_count=1191; coerced_to_nan=0
+nc_MAXaaSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXaaaC,dropped,has_nan,nan_drop,nan_count=1142; coerced_to_nan=0
+nc_MAXaasC,dropped,has_nan,nan_drop,nan_count=521; coerced_to_nan=0
+nc_MAXaasN,dropped,has_nan,nan_drop,nan_count=1134; coerced_to_nan=0
+nc_MAXdCH2,dropped,has_nan,nan_drop,nan_count=1169; coerced_to_nan=0
+nc_MAXdNH,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+nc_MAXdO,dropped,has_nan,nan_drop,nan_count=452; coerced_to_nan=0
+nc_MAXdS,dropped,has_nan,nan_drop,nan_count=1170; coerced_to_nan=0
+nc_MAXdSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXddC,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+nc_MAXddsN,dropped,has_nan,nan_drop,nan_count=1159; coerced_to_nan=0
+nc_MAXddssS,dropped,has_nan,nan_drop,nan_count=1107; coerced_to_nan=0
+nc_MAXddssSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXdsCH,dropped,has_nan,nan_drop,nan_count=1049; coerced_to_nan=0
+nc_MAXdsN,dropped,has_nan,nan_drop,nan_count=1146; coerced_to_nan=0
+nc_MAXdssC,dropped,has_nan,nan_drop,nan_count=592; coerced_to_nan=0
+nc_MAXdssS,dropped,has_nan,nan_drop,nan_count=1204; coerced_to_nan=0
+nc_MAXdssSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXdsssP,dropped,has_nan,nan_drop,nan_count=1158; coerced_to_nan=0
+nc_MAXsAsH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXsBr,dropped,has_nan,nan_drop,nan_count=1194; coerced_to_nan=0
+nc_MAXsCH3,dropped,has_nan,nan_drop,nan_count=383; coerced_to_nan=0
+nc_MAXsCl,dropped,has_nan,nan_drop,nan_count=982; coerced_to_nan=0
+nc_MAXsF,dropped,has_nan,nan_drop,nan_count=1104; coerced_to_nan=0
+nc_MAXsGeH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXsI,dropped,has_nan,nan_drop,nan_count=1205; coerced_to_nan=0
+nc_MAXsLi,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXsNH2,dropped,has_nan,nan_drop,nan_count=1104; coerced_to_nan=0
+nc_MAXsNH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXsOH,dropped,has_nan,nan_drop,nan_count=791; coerced_to_nan=0
+nc_MAXsPH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXsPbH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXsSH,dropped,has_nan,nan_drop,nan_count=1204; coerced_to_nan=0
+nc_MAXsSeH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXsSiH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXsSnH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXssAsH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXssBH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXssBe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXssCH2,dropped,has_nan,nan_drop,nan_count=453; coerced_to_nan=0
+nc_MAXssGeH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXssNH,dropped,has_nan,nan_drop,nan_count=1038; coerced_to_nan=0
+nc_MAXssNH2,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+nc_MAXssO,dropped,has_nan,nan_drop,nan_count=696; coerced_to_nan=0
+nc_MAXssPH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXssPbH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXssS,dropped,has_nan,nan_drop,nan_count=1156; coerced_to_nan=0
+nc_MAXssSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXssSiH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXssSnH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXsssAs,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXsssB,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+nc_MAXsssCH,dropped,has_nan,nan_drop,nan_count=811; coerced_to_nan=0
+nc_MAXsssGeH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXsssN,dropped,has_nan,nan_drop,nan_count=1060; coerced_to_nan=0
+nc_MAXsssNH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXsssP,dropped,has_nan,nan_drop,nan_count=1206; coerced_to_nan=0
+nc_MAXsssPbH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXsssSiH,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+nc_MAXsssSnH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXsssdAs,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+nc_MAXssssB,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+nc_MAXssssBe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXssssC,dropped,has_nan,nan_drop,nan_count=921; coerced_to_nan=0
+nc_MAXssssGe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXssssN,dropped,has_nan,nan_drop,nan_count=1205; coerced_to_nan=0
+nc_MAXssssPb,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXssssSi,dropped,has_nan,nan_drop,nan_count=1196; coerced_to_nan=0
+nc_MAXssssSn,dropped,has_nan,nan_drop,nan_count=1209; coerced_to_nan=0
+nc_MAXsssssAs,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXsssssP,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MAXtCH,dropped,has_nan,nan_drop,nan_count=1204; coerced_to_nan=0
+nc_MAXtN,dropped,has_nan,nan_drop,nan_count=1178; coerced_to_nan=0
+nc_MAXtsC,dropped,has_nan,nan_drop,nan_count=1170; coerced_to_nan=0
+nc_MDEC-11,dropped,has_nan,nan_drop,nan_count=629; coerced_to_nan=0
+nc_MDEC-12,dropped,has_nan,nan_drop,nan_count=413; coerced_to_nan=0
+nc_MDEC-13,dropped,has_nan,nan_drop,nan_count=471; coerced_to_nan=0
+nc_MDEC-14,dropped,has_nan,nan_drop,nan_count=985; coerced_to_nan=0
+nc_MDEC-22,dropped,has_nan,nan_drop,nan_count=153; coerced_to_nan=0
+nc_MDEC-23,dropped,has_nan,nan_drop,nan_count=211; coerced_to_nan=0
+nc_MDEC-24,dropped,has_nan,nan_drop,nan_count=947; coerced_to_nan=0
+nc_MDEC-33,dropped,has_nan,nan_drop,nan_count=310; coerced_to_nan=0
+nc_MDEC-34,dropped,has_nan,nan_drop,nan_count=940; coerced_to_nan=0
+nc_MDEC-44,dropped,has_nan,nan_drop,nan_count=1118; coerced_to_nan=0
+nc_MDEN-11,dropped,has_nan,nan_drop,nan_count=1181; coerced_to_nan=0
+nc_MDEN-12,dropped,has_nan,nan_drop,nan_count=1162; coerced_to_nan=0
+nc_MDEN-13,dropped,has_nan,nan_drop,nan_count=1178; coerced_to_nan=0
+nc_MDEN-22,dropped,has_nan,nan_drop,nan_count=1046; coerced_to_nan=0
+nc_MDEN-23,dropped,has_nan,nan_drop,nan_count=1080; coerced_to_nan=0
+nc_MDEN-33,dropped,has_nan,nan_drop,nan_count=1139; coerced_to_nan=0
+nc_MDEO-11,dropped,has_nan,nan_drop,nan_count=659; coerced_to_nan=0
+nc_MDEO-12,dropped,has_nan,nan_drop,nan_count=763; coerced_to_nan=0
+nc_MDEO-22,dropped,has_nan,nan_drop,nan_count=952; coerced_to_nan=0
+nc_MID,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_MID_C,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_MID_N,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_MID_O,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_MID_X,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_MID_h,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_MINaaCH,dropped,has_nan,nan_drop,nan_count=537; coerced_to_nan=0
+nc_MINaaN,dropped,has_nan,nan_drop,nan_count=1058; coerced_to_nan=0
+nc_MINaaNH,dropped,has_nan,nan_drop,nan_count=1188; coerced_to_nan=0
+nc_MINaaO,dropped,has_nan,nan_drop,nan_count=1185; coerced_to_nan=0
+nc_MINaaS,dropped,has_nan,nan_drop,nan_count=1191; coerced_to_nan=0
+nc_MINaaSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINaaaC,dropped,has_nan,nan_drop,nan_count=1142; coerced_to_nan=0
+nc_MINaasC,dropped,has_nan,nan_drop,nan_count=521; coerced_to_nan=0
+nc_MINaasN,dropped,has_nan,nan_drop,nan_count=1134; coerced_to_nan=0
+nc_MINdCH2,dropped,has_nan,nan_drop,nan_count=1169; coerced_to_nan=0
+nc_MINdNH,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+nc_MINdO,dropped,has_nan,nan_drop,nan_count=452; coerced_to_nan=0
+nc_MINdS,dropped,has_nan,nan_drop,nan_count=1170; coerced_to_nan=0
+nc_MINdSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINddC,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+nc_MINddsN,dropped,has_nan,nan_drop,nan_count=1159; coerced_to_nan=0
+nc_MINddssS,dropped,has_nan,nan_drop,nan_count=1107; coerced_to_nan=0
+nc_MINddssSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINdsCH,dropped,has_nan,nan_drop,nan_count=1049; coerced_to_nan=0
+nc_MINdsN,dropped,has_nan,nan_drop,nan_count=1146; coerced_to_nan=0
+nc_MINdssC,dropped,has_nan,nan_drop,nan_count=592; coerced_to_nan=0
+nc_MINdssS,dropped,has_nan,nan_drop,nan_count=1204; coerced_to_nan=0
+nc_MINdssSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINdsssP,dropped,has_nan,nan_drop,nan_count=1158; coerced_to_nan=0
+nc_MINsAsH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINsBr,dropped,has_nan,nan_drop,nan_count=1194; coerced_to_nan=0
+nc_MINsCH3,dropped,has_nan,nan_drop,nan_count=383; coerced_to_nan=0
+nc_MINsCl,dropped,has_nan,nan_drop,nan_count=982; coerced_to_nan=0
+nc_MINsF,dropped,has_nan,nan_drop,nan_count=1104; coerced_to_nan=0
+nc_MINsGeH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINsI,dropped,has_nan,nan_drop,nan_count=1205; coerced_to_nan=0
+nc_MINsLi,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINsNH2,dropped,has_nan,nan_drop,nan_count=1104; coerced_to_nan=0
+nc_MINsNH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINsOH,dropped,has_nan,nan_drop,nan_count=791; coerced_to_nan=0
+nc_MINsPH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINsPbH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINsSH,dropped,has_nan,nan_drop,nan_count=1204; coerced_to_nan=0
+nc_MINsSeH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINsSiH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINsSnH3,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINssAsH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINssBH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINssBe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINssCH2,dropped,has_nan,nan_drop,nan_count=453; coerced_to_nan=0
+nc_MINssGeH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINssNH,dropped,has_nan,nan_drop,nan_count=1038; coerced_to_nan=0
+nc_MINssNH2,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+nc_MINssO,dropped,has_nan,nan_drop,nan_count=696; coerced_to_nan=0
+nc_MINssPH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINssPbH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINssS,dropped,has_nan,nan_drop,nan_count=1156; coerced_to_nan=0
+nc_MINssSe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINssSiH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINssSnH2,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINsssAs,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINsssB,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+nc_MINsssCH,dropped,has_nan,nan_drop,nan_count=811; coerced_to_nan=0
+nc_MINsssGeH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINsssN,dropped,has_nan,nan_drop,nan_count=1060; coerced_to_nan=0
+nc_MINsssNH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINsssP,dropped,has_nan,nan_drop,nan_count=1206; coerced_to_nan=0
+nc_MINsssPbH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINsssSiH,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+nc_MINsssSnH,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINsssdAs,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+nc_MINssssB,dropped,has_nan,nan_drop,nan_count=1210; coerced_to_nan=0
+nc_MINssssBe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINssssC,dropped,has_nan,nan_drop,nan_count=921; coerced_to_nan=0
+nc_MINssssGe,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINssssN,dropped,has_nan,nan_drop,nan_count=1205; coerced_to_nan=0
+nc_MINssssPb,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINssssSi,dropped,has_nan,nan_drop,nan_count=1196; coerced_to_nan=0
+nc_MINssssSn,dropped,has_nan,nan_drop,nan_count=1209; coerced_to_nan=0
+nc_MINsssssAs,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINsssssP,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_MINtCH,dropped,has_nan,nan_drop,nan_count=1204; coerced_to_nan=0
+nc_MINtN,dropped,has_nan,nan_drop,nan_count=1178; coerced_to_nan=0
+nc_MINtsC,dropped,has_nan,nan_drop,nan_count=1170; coerced_to_nan=0
+nc_Mare,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_Mse,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_NaaSe,dropped,zero_variance,nan_drop|variance_drop,
+nc_NdSe,dropped,zero_variance,nan_drop|variance_drop,
+nc_NddssSe,dropped,zero_variance,nan_drop|variance_drop,
+nc_NdssSe,dropped,zero_variance,nan_drop|variance_drop,
+nc_NsAsH2,dropped,zero_variance,nan_drop|variance_drop,
+nc_NsGeH3,dropped,zero_variance,nan_drop|variance_drop,
+nc_NsLi,dropped,zero_variance,nan_drop|variance_drop,
+nc_NsNH3,dropped,zero_variance,nan_drop|variance_drop,
+nc_NsPH2,dropped,zero_variance,nan_drop|variance_drop,
+nc_NsPbH3,dropped,zero_variance,nan_drop|variance_drop,
+nc_NsSeH,dropped,zero_variance,nan_drop|variance_drop,
+nc_NsSiH3,dropped,zero_variance,nan_drop|variance_drop,
+nc_NsSnH3,dropped,zero_variance,nan_drop|variance_drop,
+nc_NssAsH,dropped,zero_variance,nan_drop|variance_drop,
+nc_NssBH,dropped,zero_variance,nan_drop|variance_drop,
+nc_NssBe,dropped,zero_variance,nan_drop|variance_drop,
+nc_NssGeH2,dropped,zero_variance,nan_drop|variance_drop,
+nc_NssPH,dropped,zero_variance,nan_drop|variance_drop,
+nc_NssPbH2,dropped,zero_variance,nan_drop|variance_drop,
+nc_NssSe,dropped,zero_variance,nan_drop|variance_drop,
+nc_NssSiH2,dropped,zero_variance,nan_drop|variance_drop,
+nc_NssSnH2,dropped,zero_variance,nan_drop|variance_drop,
+nc_NsssAs,dropped,zero_variance,nan_drop|variance_drop,
+nc_NsssGeH,dropped,zero_variance,nan_drop|variance_drop,
+nc_NsssNH,dropped,zero_variance,nan_drop|variance_drop,
+nc_NsssPbH,dropped,zero_variance,nan_drop|variance_drop,
+nc_NsssSnH,dropped,zero_variance,nan_drop|variance_drop,
+nc_NssssBe,dropped,zero_variance,nan_drop|variance_drop,
+nc_NssssGe,dropped,zero_variance,nan_drop|variance_drop,
+nc_NssssPb,dropped,zero_variance,nan_drop|variance_drop,
+nc_NsssssAs,dropped,zero_variance,nan_drop|variance_drop,
+nc_NsssssP,dropped,zero_variance,nan_drop|variance_drop,
+nc_RNCG,dropped,has_nan,nan_drop,nan_count=8; coerced_to_nan=0
+nc_RPCG,dropped,has_nan,nan_drop,nan_count=8; coerced_to_nan=0
+nc_RotRatio,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_SM1_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_SM1_DzZ,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SM1_Dzare,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SM1_Dzi,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SM1_Dzm,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SM1_Dzp,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SM1_Dzpe,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SM1_Dzse,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SM1_Dzv,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SMR_VSA8,dropped,zero_variance,nan_drop|variance_drop,
+nc_SaaSe,dropped,zero_variance,nan_drop|variance_drop,
+nc_Sare,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_SdSe,dropped,zero_variance,nan_drop|variance_drop,
+nc_SddssSe,dropped,zero_variance,nan_drop|variance_drop,
+nc_SdssSe,dropped,zero_variance,nan_drop|variance_drop,
+nc_SlogP_VSA9,dropped,zero_variance,nan_drop|variance_drop,
+nc_SpAD_A,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAD_D,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAD_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_SpAD_DzZ,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAD_Dzare,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAD_Dzi,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAD_Dzm,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAD_Dzp,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAD_Dzpe,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAD_Dzse,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAD_Dzv,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAbs_A,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAbs_D,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAbs_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_SpAbs_DzZ,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAbs_Dzare,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAbs_Dzi,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAbs_Dzm,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAbs_Dzp,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAbs_Dzpe,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAbs_Dzse,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpAbs_Dzv,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpDiam_A,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpDiam_D,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpDiam_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_SpDiam_DzZ,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpDiam_Dzare,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpDiam_Dzi,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpDiam_Dzm,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpDiam_Dzp,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpDiam_Dzpe,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpDiam_Dzse,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpDiam_Dzv,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMAD_A,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMAD_D,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMAD_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_SpMAD_DzZ,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMAD_Dzare,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMAD_Dzi,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMAD_Dzm,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMAD_Dzp,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMAD_Dzpe,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMAD_Dzse,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMAD_Dzv,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMax_A,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMax_D,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMax_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_SpMax_DzZ,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMax_Dzare,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMax_Dzi,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMax_Dzm,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMax_Dzp,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMax_Dzpe,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMax_Dzse,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SpMax_Dzv,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_SsAsH2,dropped,zero_variance,nan_drop|variance_drop,
+nc_SsGeH3,dropped,zero_variance,nan_drop|variance_drop,
+nc_SsLi,dropped,zero_variance,nan_drop|variance_drop,
+nc_SsNH3,dropped,zero_variance,nan_drop|variance_drop,
+nc_SsPH2,dropped,zero_variance,nan_drop|variance_drop,
+nc_SsPbH3,dropped,zero_variance,nan_drop|variance_drop,
+nc_SsSeH,dropped,zero_variance,nan_drop|variance_drop,
+nc_SsSiH3,dropped,zero_variance,nan_drop|variance_drop,
+nc_SsSnH3,dropped,zero_variance,nan_drop|variance_drop,
+nc_Sse,dropped,has_nan,nan_drop,nan_count=1; coerced_to_nan=0
+nc_SssAsH,dropped,zero_variance,nan_drop|variance_drop,
+nc_SssBH,dropped,zero_variance,nan_drop|variance_drop,
+nc_SssBe,dropped,zero_variance,nan_drop|variance_drop,
+nc_SssGeH2,dropped,zero_variance,nan_drop|variance_drop,
+nc_SssPH,dropped,zero_variance,nan_drop|variance_drop,
+nc_SssPbH2,dropped,zero_variance,nan_drop|variance_drop,
+nc_SssSe,dropped,zero_variance,nan_drop|variance_drop,
+nc_SssSiH2,dropped,zero_variance,nan_drop|variance_drop,
+nc_SssSnH2,dropped,zero_variance,nan_drop|variance_drop,
+nc_SsssAs,dropped,zero_variance,nan_drop|variance_drop,
+nc_SsssGeH,dropped,zero_variance,nan_drop|variance_drop,
+nc_SsssNH,dropped,zero_variance,nan_drop|variance_drop,
+nc_SsssPbH,dropped,zero_variance,nan_drop|variance_drop,
+nc_SsssSnH,dropped,zero_variance,nan_drop|variance_drop,
+nc_SssssBe,dropped,zero_variance,nan_drop|variance_drop,
+nc_SssssGe,dropped,zero_variance,nan_drop|variance_drop,
+nc_SssssPb,dropped,zero_variance,nan_drop|variance_drop,
+nc_SsssssAs,dropped,zero_variance,nan_drop|variance_drop,
+nc_SsssssP,dropped,zero_variance,nan_drop|variance_drop,
+nc_VAdjMat,dropped,has_nan,nan_drop,nan_count=3; coerced_to_nan=0
+nc_VE1_A,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE1_D,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE1_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_VE1_DzZ,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE1_Dzare,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE1_Dzi,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE1_Dzm,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE1_Dzp,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE1_Dzpe,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE1_Dzse,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE1_Dzv,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE2_A,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE2_D,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE2_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_VE2_DzZ,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE2_Dzare,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE2_Dzi,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE2_Dzm,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE2_Dzp,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE2_Dzpe,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE2_Dzse,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE2_Dzv,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE3_A,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE3_D,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE3_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_VE3_DzZ,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE3_Dzare,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE3_Dzi,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE3_Dzm,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE3_Dzp,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE3_Dzpe,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE3_Dzse,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VE3_Dzv,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR1_A,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR1_D,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR1_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_VR1_DzZ,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR1_Dzare,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR1_Dzi,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR1_Dzm,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR1_Dzp,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR1_Dzpe,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR1_Dzse,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR1_Dzv,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR2_A,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR2_D,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR2_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_VR2_DzZ,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR2_Dzare,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR2_Dzi,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR2_Dzm,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR2_Dzp,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR2_Dzpe,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR2_Dzse,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR2_Dzv,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR3_A,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR3_D,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR3_Dt,dropped,has_nan,nan_drop,nan_count=1211; coerced_to_nan=0
+nc_VR3_DzZ,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR3_Dzare,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR3_Dzi,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR3_Dzm,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR3_Dzp,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR3_Dzpe,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR3_Dzse,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_VR3_Dzv,dropped,has_nan,nan_drop,nan_count=130; coerced_to_nan=0
+nc_Vabc,dropped,has_nan,nan_drop,nan_count=95; coerced_to_nan=0
+nc_Xp-0d,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_Xp-0dv,dropped,has_nan,nan_drop,nan_count=84; coerced_to_nan=0
+nc_mZagreb1,dropped,has_nan,nan_drop,nan_count=113; coerced_to_nan=0
+nc_n10AHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n10ARing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n10HRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n10Ring,dropped,zero_variance,nan_drop|variance_drop,
+nc_n10aHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n10aRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n11AHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n11ARing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n11FaHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n11FaRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n11HRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n11Ring,dropped,zero_variance,nan_drop|variance_drop,
+nc_n11aHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n11aRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n12AHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n12FaHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n12FaRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n12HRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n12aHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n12aRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n3aHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n3aRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n4FAHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n4FARing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n4FHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n4FRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n4FaHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n4FaRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n4aHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n4aRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n5FAHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n5FARing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n5FHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n5FRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n5FaHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n5FaRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n6FaHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n6FaRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n7FaHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n7FaRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n7aHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n8FaHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n8FaRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n8aHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n8aRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n9AHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n9ARing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n9HRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n9Ring,dropped,zero_variance,nan_drop|variance_drop,
+nc_n9aHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_n9aRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_nG12aHRing,dropped,zero_variance,nan_drop|variance_drop,
+nc_nG12aRing,dropped,zero_variance,nan_drop|variance_drop,
