@@ -41,16 +41,16 @@ benzene,c1ccccc1
 ## Remove invalid SMILES
 
 ```bash
-python3.8 clean_smiles.py \
-  --i input/PhytoHub.csv \
-  --o input/compound_clean.csv \
-  --invalid input/compound_invalid_smiles.csv
+python3.8 clean.py \
+  --i input.csv \
+  --o output.csv \
+  --invalid compound_invalid_smiles.csv
 ```
 
 ## Run predictor
 
 ```bash
-python3.8 predictor.py --i input/compound_clean.csv
+python3.8 predictor.py --i cleaned.csv
 ```
 
 ## Output
